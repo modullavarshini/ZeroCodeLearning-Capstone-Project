@@ -1,0 +1,7 @@
+The left side of the screen(left panel) has an option of ‘Input data’ - Click on the ‘Browse’ option and upload dataset in CSV format here.
+
+The 'Overview' tab provides you with relevant study resources, tutorials, sample datasets and a short overview to start with, which helps you understand and comprehend your data correctly.
+
+On the left panel, there’s an option called ‘Data selection’ where you can select your favourable number of Y variables required to base the analysis - Select and click on ‘Apply Changes’. The left panel has ‘Advanced Options’ section where there is option of  ‘Select sub sample’ - Click on the drop down option to select random number of observations for testing or the whole data itself. The left panel has ‘Advanced Options’ section where there is option of ‘Impute missing values or drop missing value rows’ - Click on the drop down to select the option of dropping or imputing the missing values.
+
+The ‘Data Summary’ tab enables you to get a comprehensive evaluation through statistical measures that help us form the basis of our analysis - It will display all the 'descriptive analytics' measures including minimum value, maximum value, range between data values mean, median, standard deviation, variance etc.

@@ -1,0 +1,37 @@
+k-nearest neighbors algorithm, also known as KNN or k-NN, is a non-parametric, supervised learning classifier, which uses proximity to make classifications or predictions about the grouping of an individual data point.
+
+The left panel has ‘Advanced Options’ section where there is option to  ‘Set test sample percentage’ - Use the toggle bar to set required percentage of test sample.
+
+The left panel has ‘Advanced Options’ section where there is option to  ‘Select maximum nearest neighbours’ - Use the toggle bar to set required number of nearest neighbours.
+
+The left panel has ‘Advanced Options’ section where there is option to  ‘Select number of CV folds’ - Use the toggle bar to set required number of Cross-Validation (CV) folds.
+
+KNN results tab consists of model accuracy & performance for different k-values along with a graphical representation for ther same.
+
+Regression analysis is a way of mathematically sorting out which of those variables does indeed have an impact.  A dependent variable is the main factor that you’re trying to understand or predict. The independent variables are the factors you suspect have an impact on your dependent variable.
+
+Data visualization is the representation of data through use of common graphics, such as charts, plots, infographics, and even animations to communicate complex data relationships and data-driven insights.
+
+A histogram is a graph that shows the frequency of numerical data using rectangles to give a rough sense of the density of the underlying distribution of the data, and often for density estimation, estimating the probability density function of the underlying variable. In a histogram, the height of a rectangle (the vertical axis) represents the distribution frequency of a variable (the amount, or how often that variable appears). The total area of a histogram used for probability density is always normalized to 1. If the length of the intervals on the x-axis are all 1, then a histogram is identical to a relative frequency plot.
+
+A pair plot gives pairwise relationships in a dataset to understand the best set of features to explain a relationship between two variables or to form the most separated clusters. The pair plot function creates a grid of Axes such that each variable in data will be shared in the y-axis across a single row and on the x-axis across a single column.
+
+A Correlation Table is a two-way tabulation of the relations between correlates - row headings are the scores on one variable and column headings are the scores on the second variable and a cell shows how many times the score on that row was associated with the score in that column.
+A correlation matrix is a table showing correlation coefficients between variables where each cell in the table shows the correlation between two variables.
+
+The summary tab provides the overall analysis result under a few methods like OLS (Ordinary Least Square), RMSE (Root Mean Square Error), Variance Inflation Factor (VIF) etc.
+
+Ordinary Least Squares regression or OLS is a common technique for estimating coefficients of linear regression equations which describe the relationship between one or more independent quantitative variables and a dependent variable (simple or multiple linear regression).
+Root Mean Square Error or RMSE is the standard deviation of the residuals or it tells you how concentrated the data is around the line of best fit. Residuals or errors are a measure of how far from the regression line data points are.
+
+Variance inflation factor or VIF is a measure of the amount of multicollinearity in a set of multiple regression variables and for a regression model variable is equal to the ratio of the overall model variance to the variance of a model that includes only that single independent variable.  we can calculate the VIF for the variable points by performing a multiple linear regression using points as the response variable and assists and rebounds as the explanatory variables.
+
+R-Squared  or R² or the coefficient of determination is a statistical measure in a regression model that determines the proportion of variance in the dependent variable that can be explained by the independent variable. In other words, r-squared shows how well the data fit the regression model.
+
+The correlation coefficient is a specific measure that quantifies the strength of the linear relationship between two variables in a correlation analysis. A correlation analysis provides information on the strength and direction of the linear relationship between two variables, while a simple linear regression analysis estimates parameters in a linear equation that can be used to predict values of one variable based on the other.
+
+The Summary OLS tab evaluates the correlation coefficients between variables and represents them through a correlation map where each cell depicts a correlation between 2 variables and the size and color of the circles in each cell depict the degree of correlation, the larger the size and darker the color shade, the higher is the correlation.
+
+A residual plot has the residual values on the Y- axis and the independent variable on the x-axis.
+
+In regression analysis, prediction error quantifies how well the model predicts the response variable and in classification, it quantifies how well samples are classified to the correct category.

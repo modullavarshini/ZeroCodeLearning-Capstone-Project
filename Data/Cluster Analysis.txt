@@ -1,0 +1,20 @@
+Cluster analysis is the task of grouping a set of objects in such a way that objects in the same group are more similar to each other than to those in other groups, the goal of clustering is to find clusters within a data set.
+
+Cluster centriods is middle of a cluster, A centroid is a vector that contains one number for each variable, where each number is the mean of a variable for the observations in that cluster, the centroid can be thought of as the multi-dimensional average of the cluster and the centroids are calculated based on the Number of clusters.
+
+Principal component analysis (PCA) is an unsupervised machine learning technique, the most popular use of principal component analysis is dimensionality reduction and Besides using PCA as a data preparation technique, we can also use it to help visualize data. A PCA plot shows clusters of samples based on their similarity. 
+
+
+Uniform Manifold Approximation and Projection (UMAP) is a dimension reduction technique that can be used for visualisation but also for general non-linear dimension reduction and UMAP is an algorithm based on manifold learning techniques and ideas from topological data analysis, further It provides a very general framework for approaching manifold learning and dimension reduction, but can also provide specific concrete realizations.
+
+K-means clustering is a method used for clustering analysis, especially in data mining and statistics and It aims to partition a set of observations into a number of clusters (k), resulting in the partitioning of the data into Voronoi cells. 
+
+Hierarchical clustering, also known as hierarchical cluster analysis, is an algorithm that groups similar objects into groups called clusters and the endpoint is a set of clusters, where each cluster is distinct from each other cluster, and the objects within each cluster are broadly similar to each other.
+
+k -medoids is a classical partitioning technique of clustering that splits the data set of n objects into k clusters, where the number k of clusters assumed known a priori, which implies that the programmer must specify k before the execution of a k -medoids algorithm. 
+
+Spectral clustering is a technique with roots in Graph theory, where the approach is used to identify communities of nodes in a graph based on the edges connecting them and the method is flexible and allows us to cluster non graph data as well. 
+
+HDBSCAN is a clustering algorithm, it extends DBSCAN by converting it into a hierarchical clustering algorithm, and then using a technique to extract a flat clustering based in the stability of clusters.
+
+

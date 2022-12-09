@@ -1,0 +1,17 @@
+Binary logistic regression is a regression model where the target variable is binary, and it can take only two values, 0 or 1. If the number of observations is lesser than the number of features, Logistic Regression should not be used, otherwise, it may lead to overfitting. 
+
+Accuracy is the proportion of correct predictions over total predictions, accuracy =  correct_predictions / total_predictions. This is how we can find the accuracy with logistic regression: score = LogisticRegression.score(X_test, y_test). The most basic diagnostic of a logistic regression is predictive accuracy. Not only does binary logistic regression allow you to assess how well yourset of variables predicts your categorical dependent variable and determine the goodness-of-fit of your model as does regular linear regression, but also it provides a summary of the accuracy of the classification of cases.
+
+A confusion matrix of binary classification is a two by two table formed by counting of the number of the four outcomes of a binary classifier. We usually denote them as TP, FP, TN, and FN instead of the number of true positives, and so on. Predicted, Theoretical probability uses math to predict the outcomes. Just divide the favorable outcomes by the possible outcomes. It gives information about errors made by the classifier and the types of errors that are being made. It reflects how a classification model is disorganized and confused while making predictions.
+
+The Area Under the ROC curve (AUC) is an aggregated metric that evaluates how well a logistic regression model classifies positive and Negative outcomes at all possible cutoffs and it can range from 0.5 to 1, and the larger it is the better.
+
+ROC curves in logistic regression are used for determining the best cutoff value for predicting whether a new observation is a failure (0) or asuccess (1)The ROC curve shows the trade-off between sensitivity (or TPR) and specificity (1 – FPR). Classifiers that give curves closer to the top-left corner indicate a better performance. As a baseline, a random classifier is expected to give points lying along the diagonal (FPR = TPR).
+
+The Summary logit tab evaluates the correlation coefficients between variables and represents them through a correlation map where each cell depicts a correlation between 2 variables and the size and color of the circles in each cell depict the degree of correlation, the larger the size and darker the color shade, the higher is the correlation.
+
+
+
+
+
+

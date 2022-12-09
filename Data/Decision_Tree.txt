@@ -1,0 +1,14 @@
+A decision tree is a flowchart-like structure in which each internal node represents a "test" on an attribute, each branch represents the outcome of the test, and each leaf node represents a class label. A Class label is the model decision that is assigned after computing all attributes.
+
+Decision Trees, or DTs, are a non-parametric supervised learning method used for both classification problems and prediction problems. 
+
+Decision Tree, or DT, works by creating a model that predicts the value of a target variable by learning simple decision rules inferred from the data features. 
+
+A decision tree makes decisions by splitting nodes into sub-nodes. This process is performed multiple times during the training process until only homogenous nodes are left. And it is the only reason why a decision tree can perform so well. A decision tree makes decisions by splitting nodes into sub-nodes. This process is performed multiple times during the training process until only homogenous nodes are left. 
+
+Variable importance is determined by calculating the relative influence of each variable: whether that variable was selected to split on during the tree building process, and how much the squared error (over all trees) improved (decreased) as a result. 
+
+Variable importance analysis provides the tools to assess the importance of input variables when dealing with complex interactions, making the machine learning model more interpretable and computationally more efficient.  
+
+A decision tree guides a user from an initial question into one of the multiple possible end states.
+We can zoom and click on the nodes to know the details regarding various aspects included in the analysis.This gives better description and detail oriented regarding paths and the node analysis also variable influence over the root to leaf i.e top to bottom order of decision tree.
